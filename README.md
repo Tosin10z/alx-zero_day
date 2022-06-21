@@ -1,1 +1,2 @@
-My first readme
+Tosins readme > README.md
+echo Tosins readme
