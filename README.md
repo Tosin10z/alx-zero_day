@@ -1,2 +1,1 @@
-Tosins readme > README.md
-echo Tosins readme
+MY ALX README
